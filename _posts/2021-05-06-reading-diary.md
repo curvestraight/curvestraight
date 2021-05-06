@@ -1,7 +1,7 @@
 ---
 title : Reading Dairy
 date : 2021-05-06 23:23:00 +0900
-categories:"Reading Dairy"
+categories : Reading Dairy
 ---
 1. 들어가기 : 원자력 논쟁에 관한 균형잡힌 이야기를 찾아서
 
