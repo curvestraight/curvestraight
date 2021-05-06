@@ -1,5 +1,5 @@
 ---
-title : "Reading Dairy"
+title : Reading Dairy
 date : 2021-05-06 23:23:00 +0900
 categories:"Reading Dairy"
 ---
